@@ -1,7 +1,7 @@
 
 # SpotiBot
 
-SpotiBot is a Python-based tool that integrates Spotify and OpenAI's GPT-3.5 Turbo to generate music recommendations and playlists based on user's music taste profile.
+SpotiBot is a Python-based tool that integrates Spotify and OpenAI's GPT models to generate music recommendations and playlists based on a user's music taste profile.
 
 ## Table of Contents
 - [Features](#features)
