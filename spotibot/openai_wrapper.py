@@ -2,8 +2,6 @@
 import openai
 import os
 
-os.environ['OPENAI_API_KEY'] = "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"
-
 
 API_KEY = os.environ.get('OPENAI_API_KEY')
 MODEL = "gpt-3.5-turbo"
