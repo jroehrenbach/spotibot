@@ -9,7 +9,6 @@ SpotiBot is a Python-based tool that integrates Spotify and OpenAI's GPT models 
 - [Usage](#usage)
 - [Testing](#testing)
 - [License](#license)
-- [Contributing](#contributing)
 
 ## Features
 
