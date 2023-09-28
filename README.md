@@ -63,6 +63,15 @@ To run the tests, navigate to the project directory and execute:
 python -m unittest discover tests
 ```
 
+## Roadmap
+### Short-Term Backlog
+#### Improvements
+* Error Handling: Enhance the robustness of API calls and other critical sections of the code.
+* Type Annotations: Add type hints to all functions and classes for better readability and self-documentation.
+#### Features
+* Prompt Engineering Layers: Expand the layers responsible for generating prompts, keeping all content in JSON format for easier manipulation.
+* Prompt Content: Refine the content of the prompts to improve the quality of the generated playlists.
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
